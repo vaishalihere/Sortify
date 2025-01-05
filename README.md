@@ -1,4 +1,4 @@
-#Sortify
+##**Sortify**
 
 Sortify is an engaging tool built using C++ and the SDL2 library, offering a graphical representation of various sorting algorithms. This project provides an interactive way to understand and compare the functioning of popular sorting techniques.
 
@@ -28,7 +28,7 @@ Ascending order sorting for all algorithms.
 
 Note: For better visualization, faster algorithms like Merge Sort are intentionally slowed down to align with the animation speed of others. The displayed sorting durations do not precisely reflect their theoretical time complexities.
 
-#Getting Started
+**Getting Started**
 
 Option 1: Run the Precompiled Application
 
@@ -52,7 +52,7 @@ Add SortingVisualizer.cpp from the repository to your project.
 
 Configure your build settings using the guidelines from the SDL2 tutorial and compile the application.
 
-#Usage
+**Usage**
 
 Controls:
 
@@ -74,7 +74,7 @@ q: Quit the application.
 
 Note: Allow the current sorting operation to complete before issuing new commands to avoid unexpected behavior.
 
-#Why Use Sortify?
+**Why Use Sortify?**
 
 Learn By Watching: Understand sorting algorithms intuitively through animations.
 
