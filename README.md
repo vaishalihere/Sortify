@@ -1,4 +1,4 @@
-##**Sortify**
+## **Sortify**
 
 Sortify is an engaging tool built using C++ and the SDL2 library, offering a graphical representation of various sorting algorithms. This project provides an interactive way to understand and compare the functioning of popular sorting techniques.
 
